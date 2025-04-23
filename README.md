@@ -1,6 +1,6 @@
 > Disclaimer. My GitHub activity is sporadic because, over the past few years, I have primarily contributed to projects at work (private work GitLab) and private repositories (on GitHub). If you're curious, I'd be happy to tell you about them, as long as it's okay for me to do so.
 
-I love to develop solutions, and in the process, learn, experiment, and optimize them. I am pretty sure I enjoy delivering solutions as much as I enjoy building them 🤔 – I hope that continues to be the case.
+I love to develop solutions, and in the process, learn, experiment, and optimize them. I am pretty sure I enjoy delivering solutions as much as I enjoy the process of building them 🤔 – I hope that continues to be the case.
 
 Before I tell you more about my skills and experience, I should mention this explicitly: I don't consider myself a *insert framework/ language * developer. I try to learn processes and build my mental arsenal of "algorithms" that can be expressed in whatever way that helps achieve a goal. I do love the tools I use and at times they can be spikey too - JS - but I still love using them.
 
